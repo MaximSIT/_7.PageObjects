@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3oef26bj744ag1s2?svg=true)](https://ci.appveyor.com/project/MaximSIT/7-pageobjects)
